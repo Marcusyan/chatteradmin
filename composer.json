@@ -19,6 +19,12 @@
             "email": "codiivdev@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Keagang/chatteradmin"
+        }
+      ],
     "autoload": {
         "psr-4": {
           "Codiiv\\Chatter\\": "/src"
