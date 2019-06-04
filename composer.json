@@ -21,13 +21,13 @@
       ],
     "autoload": {
         "psr-4": {
-          "Keagang\\Chatter\\": "/src"
+          "Codiiv\\Chatter\\": "/src"
         }
       },
       "extra": {
           "laravel": {
               "providers": [
-                  "Keagang\\Chatter\\ChatterServiceProvider"
+                  "Codiiv\\Chatter\\ChatterServiceProvider"
               ]
           }
       },
