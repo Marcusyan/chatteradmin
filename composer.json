@@ -1,5 +1,5 @@
 {
-    "name": "codiiv/chatteradmin",
+    "name": "marcusyan/chatteradmin",
     "description": "A package to provide extended functionality for the beautiful thedevdojo/chatter forums for Laravel",
     "homepage": "https://github.com/codiiv/chatteradmin",
     "keywords": [
@@ -33,9 +33,9 @@
       },
       "minimum-stability": "dev",
       "require": {
-        "laravel/framework": "5.7.*"
+        "laravel/framework": "5.8.*"
       },
       "require-dev": {
-          "laravel/laravel": "5.7."
+          "laravel/laravel": "5.8."
     }
 }
