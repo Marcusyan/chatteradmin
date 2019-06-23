@@ -10,7 +10,7 @@
         "chatter admin"
     ],
     "require": {
-        "devdojo/chatter": "^0.2.18"
+        "devdojo/chatter": "^0.2.6"
     },
     "license": "MIT",
     "repositories": [
